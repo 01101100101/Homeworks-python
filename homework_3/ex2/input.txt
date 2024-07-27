@@ -1,0 +1,26 @@
+{
+"store1":
+{
+"apple":
+30,
+"banana": 20,
+"carrot":
+15
+},
+"store2":
+{
+"apple":
+25,
+"banana": 30,
+"carrot":
+10
+},
+"store3":
+{
+"apple":
+35,
+"banana": 25,
+"carrot":
+20
+}
+}
