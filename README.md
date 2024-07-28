@@ -12,3 +12,7 @@
   * [Задача 1](homework_3/ex1)
   * [Задача 2](homework_3/ex2)
   * [Задача 3](homework_3/ex3)
+* [Домашняя работа 4](homework_4/)
+  * [Задача 1](homework_4/ex1)
+  * [Задача 2](homework_4/ex2)
+  * [Задача 3](homework_4/ex3)
